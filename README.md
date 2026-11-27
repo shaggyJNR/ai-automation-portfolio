@@ -1,1 +1,5 @@
-# ai-automation-portfolio
+**Result:**
+![result](screenshot.png)
+
+**Workflow:**
+![workflow](workflow.png)
