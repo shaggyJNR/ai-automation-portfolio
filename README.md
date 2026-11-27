@@ -1,5 +1,5 @@
-**Result:**
-![result](screenshot.png)
+# ai-automation-portfolio
 
-**Workflow:**
-![workflow](workflow.png)
+Automation projects built with Make, n8n and Zapier.
+
+- [Customer Feedback Analyzer](make/feedback-analyzer)
