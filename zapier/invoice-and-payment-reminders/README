@@ -1,0 +1,21 @@
+# Invoice and Payment Reminders
+
+**Problem:** Late and forgotten payments hurt cash flow, and chasing clients by hand takes time and feels awkward.
+
+**Tools used:** Zapier, Google Sheets, Gmail
+
+**How it works:**
+- Trigger: a scheduled run every morning at 8:00 AM
+- Action: Zapier checks the invoice sheet for unpaid invoices that are coming due or overdue, then emails each client a reminder or overdue notice
+- Result: clients are reminded on time without anyone chasing them, and paid invoices are left alone
+
+**Result:** Tested with 8 sample invoices, including paid ones: the correct clients received reminders and overdue notices on the scheduled run, and paid invoices were skipped.
+
+**Result 1: Reminder sent**
+![reminder sent](result-1-reminder.png)
+
+**Workflow 1: Reminder before the due date**
+![workflow before due](workflow-2a-before-due.png)
+
+**Workflow 2: Overdue notice**
+![workflow overdue](workflow-2b-overdue.png)
