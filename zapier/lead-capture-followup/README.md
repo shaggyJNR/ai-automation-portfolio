@@ -14,5 +14,8 @@
 **Result 1: Output**
 ![output](result-1-output.png)
 
+**Result 2: Slack notification**
+![slack notification](result-2-slack.png)
+
 **Workflow**
 ![workflow](workflow-1.png)
